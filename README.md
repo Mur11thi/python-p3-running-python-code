@@ -332,7 +332,7 @@ as described by the tests:
 
 - Use `print()` to display the text on one line: "Hello World! Pass this test,
   please."
-
+gi
 Using `pytest` will run the tests. After they are passing, sync your progress
 using Git. When your tests are all passing and your work is synced, the lab is
 complete!
